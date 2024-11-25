@@ -14,3 +14,6 @@ Daniel Enrique Luna Benavidez SMSS102123
 
 Si llegase a tener algun problema a la hora se revisar el codigo o algo porfavor contactarnos y si es posible le dariamos una breve desmotracion y explicacion 
 del codigo en general 
+
+para iniciar el chat bot de manera local se utiliza este comando en la cmd o bash 
+streamlit run c:/Users/Admin/Documents/ChatBotAI/ChatBotAI/src/ChatLunita.py solo cambia la direccion donde lo tiene guardado 
